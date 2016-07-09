@@ -19,3 +19,9 @@ Muy recomendada.
 *   [Aprende Git Branching](http://learngitbranching.js.org/) - Tutorial
 interactivo para aprender todo lo relacionado con merge, rebase, pull y push.
 Pásate por todos los ejercicios, no te vas a arrepentir.
+
+##GitHub Pages
+
+*   [Documentación de GitHub
+Pages](https://help.github.com/articles/creating-project-pages-manually/) - Sube
+tu página a GitHub Pages para que esté disponible públicamente.
